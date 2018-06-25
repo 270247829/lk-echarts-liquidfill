@@ -19,10 +19,10 @@ ECharts can be downloaded at [GitHub dist directory](https://github.com/ecomfe/e
 >
 > The minimum package of ECharts required by LiquidFill Chart is [simple version](https://github.com/ecomfe/echarts/blob/master/dist/echarts.simple.js) on GitHub, or selecting nothing in [online builder](http://echarts.baidu.com/builder.html) (in Chinese). If you need other chart types or components in your other chart, you should include them accordingly.
 
-## Install echarts-liquidfill with npm
+## Install lk-echarts-liquidfill with npm
 
 ```sh
-npm install echarts-liquidfill
+npm install lk-echarts-liquidfill
 ```
 
 ## Download echarts-liquidfill from GitHub
