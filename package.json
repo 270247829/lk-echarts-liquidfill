@@ -1,0 +1,23 @@
+{
+  "name": "lk-echarts-liquidfill",
+  "version": "0.0.1",
+  "description": "ECharts liquid fill extension",
+  "main": "index.js",
+  "author": {
+    "name": "Rui",
+    "email": "270247829@qq.com"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "echarts": "^4.0.2",
+    "zrender": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/270247829/lk-echarts-liquidfill"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.3",
+    "webpack-link": "^0.2.0"
+  }
+}
